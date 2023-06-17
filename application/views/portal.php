@@ -38,7 +38,7 @@
 			<div class="row">
 				<div class="col-md-12">
 					<h1><i class="fa fa-graduation-cap"></i> SELAMAT DATANG <i class="fa fa-graduation-cap"></i> 
-					<p class="lead mb-5 colr">SISTEM PEMBAYARAN SPP SDIT INSAN MADANI KOTA BEKASI</p>
+					<p class="lead mb-5 colr">SISTEM PEMBAYARAN SPP SDIT INSAN MADANI BEKASI</p>
 				</div>	
 				<div class="col-md-4">
 					<a href="<?php echo site_url('manage') ?>">
